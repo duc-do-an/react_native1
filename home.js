@@ -6,7 +6,7 @@ const image = {uri: 'https://4.bp.blogspot.com/-VGO5bDcD4vg/W1sNGdjukdI/AAAAAAAA
 const Home = () => (
   <View style={styles.container}>
     <ImageBackground source={image} resizeMode="cover" style={styles.image}>
-      <Text style={styles.text}>Chào Mừng Ngày 19/11</Text>
+      <Text style={styles.text}>Chào Mừng Ngày Nhà giáo việt nam 20/11</Text>
     </ImageBackground>
   </View>
 );
